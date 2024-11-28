@@ -16537,7 +16537,7 @@ proxies:
     path: github.com/Alvin9999
     headers:
       Host: e2.6929198.xyz
-- name: United States_None_vmess_297
+- name: None_None_vmess_297
   type: vmess
   server: malaysia.com
   port: 2082
@@ -16552,7 +16552,7 @@ proxies:
     path: github.com/Alvin9999
     headers:
       Host: e2.6929198.xyz
-- name: None_None_vmess_298
+- name: United States_None_vmess_298
   type: vmess
   server: russia.com
   port: 2082
@@ -62854,8 +62854,8 @@ proxy-groups:
   - United States_None_vmess_294
   - United States_None_vmess_295
   - United States_None_vmess_296
-  - United States_None_vmess_297
-  - None_None_vmess_298
+  - None_None_vmess_297
+  - United States_None_vmess_298
   - None_None_vmess_299
   - None_None_vmess_2100
   - None_None_vmess_2101
@@ -66977,8 +66977,8 @@ proxy-groups:
   - United States_None_vmess_294
   - United States_None_vmess_295
   - United States_None_vmess_296
-  - United States_None_vmess_297
-  - None_None_vmess_298
+  - None_None_vmess_297
+  - United States_None_vmess_298
   - None_None_vmess_299
   - None_None_vmess_2100
   - None_None_vmess_2101
